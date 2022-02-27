@@ -6,7 +6,7 @@ Question Answering with a Fine-Tuned BERT
 
 
 ## License : 
-CC BY-NC
+MIT License
 
 ## Introduction: 
 
