@@ -6,7 +6,8 @@ Question Answering with a Fine-Tuned BERT
 
 ## License : 
 MIT License
-## Introduction: 
+## Introduction:
+Create a question answering program using Fine-Tuned BERT and Tensorflow 2 
 ## Requirements
 ## Installation
 ## Run 
