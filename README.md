@@ -17,9 +17,6 @@ MIT License
 ## Introduction:
 Create a question answering program using Fine-Tuned BERT and Tensorflow 2 
 
-
-## Conclusion: 
-
 ## Software tools:
 - Python
 - Tensowrflow 2 
