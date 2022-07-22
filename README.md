@@ -14,7 +14,7 @@ Neoclassical economics views inequalities in the distribution of income as arisi
 
 ## License
 MIT License
-## Introduction
+## About
 Create a question answering program using Fine-Tuned BERT and Tensorflow 2 
 
 ## Software tools
